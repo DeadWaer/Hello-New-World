@@ -1,2 +1,5 @@
 # Hello-New-World
-Anything
+
+你好啊！
+
+我的作用就是学习使用GITHUB。
